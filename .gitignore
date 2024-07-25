@@ -11,3 +11,6 @@ tests/dist
 # nyc code coverage
 .nyc_output
 coverage
+
+# usless npm stuff
+package-lock.json
